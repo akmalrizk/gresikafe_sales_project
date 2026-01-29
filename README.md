@@ -16,13 +16,14 @@ Used for educational and portfolio purposes only.
 
 ## 📂 Dataset
 The dataset contains transactional sales data with the following fields:  
-transaction_date  
-item  
-quantity  
-price_per_unit  
-total_spent  
-payment_method  
-location  
+- `transaction_date`
+- `item`
+- `quantity`
+- `price_per_unit`
+- `total_spent`
+- `payment_method`
+- `location`
+  
 *(Data was cleaned and validated before analysis.)*
 
 ## 🎯 Key Objectives
