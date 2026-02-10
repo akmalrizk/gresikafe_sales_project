@@ -1,6 +1,6 @@
 # 📊 Gresikafe Sales Data Analysis (BigQuery + Looker Studio)
 ## 📌 Project Overview
-This project analyzes Gresikafe sales transaction data using Google BigQuery and visualizes insights in Looker Studio. The goal is to uncover sales trends, best-selling products, and revenue patterns to support data-driven business decisions.  
+This project analyzes Gresikafe sales transaction data in 2025 using Google BigQuery and visualizes insights in Looker Studio. The goal is to uncover sales trends, best-selling products, and revenue patterns to support data-driven business decisions.  
 
 ## 🛠 Tools & Technologies
 - SQL (BigQuery)
@@ -54,10 +54,16 @@ gresikafe_sales_project/
 ├── menu.csv  
 └── README.md
 ```
-## 🚀 Results & Insights
-- Coffee and Sandwiches generated the highest revenue
-- Peak sales occurred during weekends
-- Card payments were the most common payment method
+## 🚀 Results, Insights, and Recommendation
+1.  **Top Revenue Product Category - Sandwich**
+- Sandwiches generated the highest revenue for making **$28,540**. This is the Cafe's strongest-performing product category.
+- *Recommendation*: Increase the inventory levels and ingredients availability of sandwiches to prevent stockouts and capitalize on high-demand orders, potentially driving higher overall revenue.
+2.  **Order Location Preference - In-Store vs Takeaway**
+- Takeaway orders accounted for **30.3%**, while in-store orders made up **30.1%**, indicating balanced customer preferences.
+- *Recommendation*: Maintain the current service strategies as neither significantly outperforms the other.
+3.  **Payment Method Usage - Digital Wallet Dominance**
+- Digital wallet payments resulted in **6,642** items sold, making it the most frequently used payment method. 
+- *Recommendation*: Introduce targeted promotions or small incentives for digital wallet payments to accelerate checkout times, improve customer experience, and potentially increase transaction volume.
 
 ## 📌 How to Run This Project
 1. Upload dataset to BigQuery
