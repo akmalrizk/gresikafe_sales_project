@@ -1,6 +1,10 @@
 # 📊 Gresikafe Sales Data Analysis (BigQuery + Looker Studio)
+
 ## 📌 Project Overview
-This project analyzes Gresikafe sales transaction data in 2025 using Google BigQuery and visualizes insights in Looker Studio. The goal is to uncover sales trends, best-selling products, and revenue patterns to support data-driven business decisions.  
+This project analyzes Gresikafe sales transaction data in 2025 using Google BigQuery and visualizes insights in Looker Studio. The goal is to uncover sales trends, best-selling products, and revenue patterns to support data-driven business decisions. 
+
+## 📸 Dashboard Preview
+![Dashboard Overview](gresikafe_screenshots/gresikafe_dashboard1.jpg)
 
 ## 🛠 Tools & Technologies
 - SQL (BigQuery)
